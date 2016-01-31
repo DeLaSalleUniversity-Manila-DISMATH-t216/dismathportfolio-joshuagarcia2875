@@ -12,6 +12,17 @@ dismathportfolio-joshuagarcia2875 created by Classroom for GitHub
 - I learned about quantifiers and the difference between existential quantifier and universal quantifier.
 - I learned about rules of inferences and how it can be used in arguments.
 
-#Week 3 
-- I learned different ways to prove an argument such as direct proof,proof by contraposition and trivial proof
-- I learned the steps on how to perform these proofs. 
+#Week 3
+- I learned about the different rules of inferences such as modus ponens, modus tollens, hypothetical syllogism and disjunctive syllogism.
+- I learned to determine whether a statement is a fallacy or not using truth tables and the rules of inferences.
+- I learned to use the rules of inferences to prove the validity of an argument.
+- I also learned to use these rules of inferences to build arguments.
+
+#Week 4 
+- I learned different ways to prove an argument through different ways like direct proof,proof by contraposition, trivial proof and vacuous proof.
+- I learned the steps on how to perform these proofs and use it in a problem.
+- Our class answered different examples to be able to master using these methods of proof.
+
+#Week 5
+-To be continued
+
