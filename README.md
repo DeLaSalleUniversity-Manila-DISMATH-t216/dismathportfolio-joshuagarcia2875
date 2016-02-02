@@ -24,5 +24,8 @@ dismathportfolio-joshuagarcia2875 created by Classroom for GitHub
 - Our class answered different examples to be able to master using these methods of proof.
 
 #Week 5
--To be continued
+- I learned about proof by equivalence
+- Using proof by equivalence is a bit more lengthy than the other proofs but it is more interesting and exciting.
+- Our class answered different examples where we can apply proof by equivalance
+- I learned about mathematical induction and the process of how it is done
 
