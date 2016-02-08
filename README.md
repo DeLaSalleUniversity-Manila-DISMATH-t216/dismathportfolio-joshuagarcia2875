@@ -1,7 +1,7 @@
 # My DISMATH Portfolio (GARCIA)
 dismathportfolio-joshuagarcia2875 created by Classroom for GitHub
 
-#Week 1
+#Week 1 (Orientation and Discussion of Syllabus)
 - I learned the topics to be discussed in this course, outputs and requirements needed to be accomplished for this course
 - I learned the use of truth table for proving
 - I learned to use logical connectives 
@@ -28,4 +28,5 @@ dismathportfolio-joshuagarcia2875 created by Classroom for GitHub
 - Using proof by equivalence is a bit more lengthy than the other proofs but it is more interesting and exciting.
 - Our class answered different examples where we can apply proof by equivalance
 - I learned about mathematical induction and the process of how it is done
-
+- Mathematical induction involves a basis and an inductive step(direct proof)
+- I learned about Recursive/Inductive Defintion and our class started to discuss Recursive Algorithms
