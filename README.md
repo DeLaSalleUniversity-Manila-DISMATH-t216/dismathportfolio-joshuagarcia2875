@@ -49,7 +49,7 @@ dismathportfolio-joshuagarcia2875 created by Classroom for GitHub
 #Week 7
 - I learned about subset and superset
 - I learned about the One-to-One Function or Injective, Onto Function or Surjective and lastly, the Bijective
-- I also a one-to-many which is not function
+- I also learned the one-to-many which is not function
 
 #Week 8
 - Time to do our Project 0-0 or the Hello World Application using MIT App Inventor
