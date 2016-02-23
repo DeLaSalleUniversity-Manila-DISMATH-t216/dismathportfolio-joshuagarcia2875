@@ -29,4 +29,31 @@ dismathportfolio-joshuagarcia2875 created by Classroom for GitHub
 - Our class answered different examples where we can apply proof by equivalance
 - I learned about mathematical induction and the process of how it is done
 - Mathematical induction involves a basis and an inductive step(direct proof)
-- I learned about Recursive/Inductive Defintion and our class started to discuss Recursive Algorithms
+- I learned about Recursive/Inductive Defintion and Recursive Algorithm
+- Our class answered various exercises about Recursive Definition and Recursive Algorithm
+
+#Week 6
+- Our class continued the discussion about Recursive Algorithm
+- We answered additional exercises about Recursive Algorithm
+- I learned about Program Correctness and its steps
+- The first step is about partial correctness.
+- First, I need to prove the correct answer is obtained if the program terminates (PARTIAL CORRECTNESS)
+- The second step is to show that the program always terminates.
+- I also learned about the Inital Assertion which gives that the input values must have and the Final Assertion which are output values.
+- I also learned about the Hoare Triple: p{S}q
+- Our class answered exercises about Program Correctness
+- I learned about Zeno's Paradox and the Power Series.
+- Our class answered different exercises to further improve our understanding about Zeno's Paradox and Power Series
+- I discovered about the Set Theory and what a Power Set is and what Cardinality means.
+
+#Week 7
+- I learned about subset and superset
+- I learned about the One-to-One Function or Injective, Onto Function or Surjective and lastly, the Bijective
+- I also a one-to-many which is not function
+
+#Week 8
+- Time to do our Project 0-0 or the Hello World Application using MIT App Inventor
+- This is an individual project
+
+#Week 9
+- To be continued .......................
