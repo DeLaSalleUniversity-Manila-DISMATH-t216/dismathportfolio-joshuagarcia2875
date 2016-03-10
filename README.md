@@ -56,4 +56,16 @@ dismathportfolio-joshuagarcia2875 created by Classroom for GitHub
 - This is an individual project
 
 #Week 9
-- To be continued .......................
+- I learned about algorithm
+- I learned about precondition which are input values and postcondition which are output values
+
+#Week 10
+-I learned about linear search and binary search 
+-Linear search -> in this kind of search, it searches individually or one by one
+-Binary search -> in this kind, the list is divided into two and comparison is being done. It will stop when the first 
+and last element is common.
+- We discussed in class the different kinds of sorting in increasing order:
+- Bubble Sort
+- Insertion Sort
+- Greedy Algorithm
+-We did exercises to test our understanding of the pseudocode and analyse the function or purpose of each block of code in the pseudocode.
