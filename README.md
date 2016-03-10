@@ -60,9 +60,9 @@ dismathportfolio-joshuagarcia2875 created by Classroom for GitHub
 - I learned about precondition which are input values and postcondition which are output values
 
 #Week 10
--I learned about linear search and binary search 
--Linear search -> in this kind of search, it searches individually or one by one
--Binary search -> in this kind, the list is divided into two and comparison is being done. It will stop when the first 
+- I learned about linear search and binary search 
+- Linear search -> in this kind of search, it searches individually or one by one
+- Binary search -> in this kind, the list is divided into two and comparison is being done. It will stop when the first 
 and last element is common.
 - We discussed in class the different kinds of sorting in increasing order:
 - Bubble Sort
