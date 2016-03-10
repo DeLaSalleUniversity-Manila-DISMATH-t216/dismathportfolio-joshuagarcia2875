@@ -68,4 +68,4 @@ and last element is common.
 - Bubble Sort
 - Insertion Sort
 - Greedy Algorithm
--We did exercises to test our understanding of the pseudocode and analyse the function or purpose of each block of code in the pseudocode.
+- We did exercises to test our understanding of the pseudocode and analyse the function or purpose of each block of code in the pseudocode.
