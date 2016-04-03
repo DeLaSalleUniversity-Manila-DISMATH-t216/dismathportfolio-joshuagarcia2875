@@ -66,3 +66,51 @@ dismathportfolio-joshuagarcia2875 created by Classroom for GitHub
 and last element is common.
 - We discussed in class the different kinds of sorting in increasing order:Bubble Sort, Insertion Sort and Greedy Algorithm
 - We did exercises to test our understanding of the pseudocode and analyse the function or purpose of each block of code in the pseudocode.
+
+#Week 11
+-Sorting is putting elements into a list in which the elements are in increasing order.
+-Bubble sort puts a list into increasing order by successively comparing adjacent elements. The two adjacent element interchange with each other if they are in the wrong order.
+-In bubble sort, we intechange a larger element with the smaller element adjacent to it. The bubble sorting starts with the first element up to the last element for a full pass. The sorting repeats until the list is completely sorted.
+-A good analogy or visualization for the bubble sort is imagining small-valued elements "bubble" or goes to the top as the interchanging happens with the larger elements, while the larger element goes down to the bottom.
+-Bubble sort algorihm uses "for" loop
+-In insertion sort, it starts with the second element. Insertion sort compares the second element with the first element and it inserts the second element before the first element if it is not greater than the first element. If the second element is greater than the first element, it is placed after the first element. 
+-The insertion sort has a outer "for" loop, inner "while" loop and inner "for" loop
+-The outer "for" loop makes it move from element to element
+-The inner "while" loop serves as the comparison 
+-The inner "for" loop serves to sort
+-In greedy algorithm, this algorithm help us decide what is the "best" choice at each step.
+-An example for greedy algorithm is the greedy change-making algorithm which produces change using the fewest number of coins possible.
+
+#Week 12
+-Big O means upper bound function
+-Big Omega means lower bound function
+-Big Theta means both Big O and Big Omega thefore both upper bound and lower bound
+-I learned about Time Complexity of different algorithms and Worst-case complexity 
+-Worst case performance of an algorithm means the largest number of operations needed to the problem given using
+the specified algorithm.
+-I also learned about Caesar Cipher which is a really fun and interesting topic.
+
+#Week 13
+-Our main topic for this week is Graph Theory
+-A graph has vertices and edges.
+-The degree of a vertex in an undirected graph is the number of edges incident with it. Take note that, a loop at vertex counts twice to the degree of that vertex.
+-I learned about the handshaking theorem
+- Formula : 2e = Summation [(degree)(vertices)]
+- A graph is connected if there is no isolated node/s.
+- To be a Euler circuit, it should cover all "bridges" and return to starting point, all nodes should have even degrees
+- To be a Euler path, it should cover all "bridges" but not return to starting point, thefore starting vertex is not equal to the final vertex.
+- To be a Hamilton circuit, it should pass through all nodes and return to starting node.
+- To be a Hamilton path, it should pass through all nodes but not return to starting node.
+- A pendant is a node with one degree
+- If a graph has a pendant, there will no hamilton circuit.
+- If there are 3 pendants in a graph, there will no hamilton circuit and no hamilton path.
+- I learned how to determine a graph by its adjacency matrix and vice versa.
+- For two graphs to be isomorphic: 
+- 1.) Number of nodes should be equal
+- 2.) Number of connection should be equal
+- 3.) One-to-one correspodence
+- 4.) Onto function
+- Planar graphs are graphs that can be drawn in the plane without edges having to cross.
+- I learned about the Euler's Formula
+- Formula: r = e-v+2  where e represents edges, v represents vertices and r represents number of regions
+- Two graphs are homeomorphic if they can be obtained from the same graph by a sequence of elementary subdivisions.
