@@ -82,13 +82,13 @@ and last element is common.
 -An example for greedy algorithm is the greedy change-making algorithm which produces change using the fewest number of coins possible.
 
 #Week 12
--Big O means upper bound function
--Big Omega means lower bound function
--Big Theta means both Big O and Big Omega thefore both upper bound and lower bound
--I learned about Time Complexity of different algorithms and Worst-case complexity 
--Worst case performance of an algorithm means the largest number of operations needed to the problem given using
-the specified algorithm.
--I also learned about Caesar Cipher which is a really fun and interesting topic.
+ -Big O means upper bound function
+ -Big Omega means lower bound function
+ -Big Theta means both Big O and Big Omega thefore both upper bound and lower bound
+ -I learned about Time Complexity of different algorithms and Worst-case complexity 
+ -Worst case performance of an algorithm means the largest number of operations needed to the problem given using
+ the specified algorithm.
+ -I also learned about Caesar Cipher which is a really fun and interesting topic.
 
 #Week 13
 -Our main topic for this week is Graph Theory
