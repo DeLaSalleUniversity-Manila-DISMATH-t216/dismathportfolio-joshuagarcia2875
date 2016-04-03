@@ -66,8 +66,6 @@ dismathportfolio-joshuagarcia2875 created by Classroom for GitHub
 and last element is common.
 - We discussed in class the different kinds of sorting in increasing order:Bubble Sort, Insertion Sort and Greedy Algorithm
 - We did exercises to test our understanding of the pseudocode and analyse the function or purpose of each block of code in the pseudocode.
-
-#Week 11
 - Sorting is putting elements into a list in which the elements are in increasing order
 - Bubble sort puts a list into increasing order by successively comparing adjacent elements. The two adjacent element interchange with each other if they are in the wrong order.
 - In bubble sort, we intechange a larger element with the smaller element adjacent to it. The bubble sorting starts with the first element up to the last element for a full pass. The sorting repeats until the list is completely sorted.
@@ -81,7 +79,7 @@ and last element is common.
 - In greedy algorithm, this algorithm help us decide what is the "best" choice at each step.
 - An example for greedy algorithm is the greedy change-making algorithm which produces change using the fewest number of coins possible.
 
-#Week 12
+#Week 11
 - Big O means upper bound function
 - Big Omega means lower bound function
 - Big Theta means both Big O and Big Omega thefore both upper bound and lower bound
@@ -90,7 +88,7 @@ and last element is common.
  the specified algorithm
 - I also learned about Caesar Cipher which is a really fun and interesting topic.
 
-#Week 13
+#Week 12
 -Our main topic for this week is Graph Theory
 -A graph has vertices and edges.
 -The degree of a vertex in an undirected graph is the number of edges incident with it. Take note that, a loop at vertex counts twice to the degree of that vertex.
