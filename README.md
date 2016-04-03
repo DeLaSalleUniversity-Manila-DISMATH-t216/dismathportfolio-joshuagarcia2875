@@ -86,13 +86,13 @@ and last element is common.
 - I learned about Time Complexity of different algorithms and Worst-case complexity 
 - Worst case performance of an algorithm means the largest number of operations needed to the problem given using
  the specified algorithm
-- I also learned about Caesar Cipher which is a really fun and interesting topic.
+- I also learned about Caesar Cipher which is a really fun and interesting topic
 
-#Week 12
--Our main topic for this week is Graph Theory
--A graph has vertices and edges.
--The degree of a vertex in an undirected graph is the number of edges incident with it. Take note that, a loop at vertex counts twice to the degree of that vertex.
--I learned about the handshaking theorem
+- #Week 12
+- Our main topic for this week is Graph Theory
+- A graph has vertices and edges
+- The degree of a vertex in an undirected graph is the number of edges incident with it. Take note that, a loop at vertex counts twice to the degree of that vertex
+- I learned about the handshaking theorem
 - Formula : 2e = Summation [(degree)(vertices)]
 - A graph is connected if there is no isolated node/s.
 - To be a Euler circuit, it should cover all "bridges" and return to starting point, all nodes should have even degrees
