@@ -112,6 +112,7 @@ and last element is common.
 - I learned about the Euler's Formula
 - Formula: r = e-v+2  where e represents edges, v represents vertices and r represents number of regions
 - Two graphs are homeomorphic if they can be obtained from the same graph by a sequence of elementary subdivisions.
+
 #Week 13
 - We started this week discussing about Graph Coloring
 - No two adjacent vertices should have the same assigned color
