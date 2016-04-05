@@ -1,4 +1,4 @@
-# My DISMATH Portfolio (GARCIA)
+# Portfolio of Val Joshua G. Garcia Section EL
 dismathportfolio-joshuagarcia2875 created by Classroom for GitHub
 
 #Week 1 (Orientation and Discussion of Syllabus)
@@ -112,3 +112,23 @@ and last element is common.
 - I learned about the Euler's Formula
 - Formula: r = e-v+2  where e represents edges, v represents vertices and r represents number of regions
 - Two graphs are homeomorphic if they can be obtained from the same graph by a sequence of elementary subdivisions.
+# Week 13
+- We started this week discussing about Graph Coloring
+- No two adjacent vertices should have the same assigned color
+- The chromatic number of a graph is the least number of colors required to color a graph
+- Its worst-time complexity is exponential
+- There are some useful rules to remember such as: The chromatic number of a planar is equal to or less than four while non-planar graphs could exceed four.
+- If odd number cycle like C_5, the chromatic number is odd
+- If even number cycle like C_100, the chromatic number is even
+- We also discussed about trees which is a connected undirected graph with no simple circuits.
+- It looks like a hierarchical tree structure with many nodes that are connected to each other
+- We did exercises to determine which of the graph is a Tree
+- Theorem discussed: An undirected graph is tree if there is a unique simple path between any two of its vertices. 
+- A rooted tree is a type of tree in which one node is chosen to be as the root and every edge is directed away from the root.
+- We did an exercise to test our understanding of rooted tree.
+- A m-ary tree is a rooted tree which every internal vertex has no more than "m" children.
+- A rooted tree which the children of each internal node is order is called an ORDERED ROOTED TREE
+- We discussed the different properties of trees and answered an exercise.
+
+
+
