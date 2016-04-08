@@ -58,7 +58,8 @@ dismathportfolio-joshuagarcia2875 created by Classroom for GitHub
 - This is an individual project
 
 #Week 9
-- I learned about algorithm
+- I learned about algorithm which refers to sets of rules to be followed by a computer
+- A pseudocode is a high-level description of an algorithm that uses structural convention of a programming language.
 - I learned about precondition which are input values and postcondition which are output values
 
 #Week 10
