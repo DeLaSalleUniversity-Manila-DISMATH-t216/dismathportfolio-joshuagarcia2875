@@ -140,8 +140,8 @@ and last element is common.
 - A finite automaton is a simple type of mathematical machine for determining whether a string is contained within some language.
 - Lexical analysis is the process of analyzing a stream of individual characters into a sequence of lexical tokens.
 - Finite-state machine: M = {S, I, O, f, g, s(0)} where S corresponds to states, I corresponds to input, O corresponds to output, f corresponds to function, g corresponds to function output and s(0) means initial state.
-- 
-- READING ASSIGNMENT (topics are included in the Final Examination)
+
+#READING ASSIGNMENT (topics are included in the Final Examination)
 - Tree traversal is a form of graph of tree traversal and refers to the process of visiting each node in a tree data structure exactly once.
 - Binary traversal methods: preorder, inorder, postorder
 - A simple graph with a spanning tree must be connected, because there is a path in the spanning tree between any two vertices.
@@ -150,7 +150,26 @@ and last element is common.
 - Relations is a relationship of elements between two sets.
 - A binary relation from a set A to a set B is a subset of A x B
 - Assume A is a set, and R be a binary relation on A;
-- R is reflexive if ∀x[(x ∈ A) → ((x, x) ∈ R)]
-
+- R is reflexive if 
+- ∀x[(x ∈ A) → ((x, x) ∈ R)]
+- R is symmetric if
+- ∀x∀y[((x, y) ∈ R) → ((y, x) ∈ R)]
+- R is antisymmetric if
+- ∀x∀y[([(x, y) ∈ R] ∧ [(y, x) ∈ R]) → (x = y)]
+- R is assymetric if 
+- ∀x∀y[((x, y) ∈ R) → ((y, x) 6∈ R)].
+- R is transitive if
+- ∀x∀y∀z[([(x, y) ∈ R] ∧ [(y, z) ∈ R]) → ((x, z) ∈ R)]
+- An equivalence relation refers to a relation that is reflexive, symmetric and transitive.
+- An n-ary relation refers to the relationship of elements from two or more sets; A1 x A2 x An, where A-domains and n-degree.
+- Composite (S o R)
+- (a,b) and (b,c) such that (a,c), from sets A, B, C.
+- A relation R on a set S is called a partial ordering or partial order if it is reflexive, antisymmetric, and transitive.
+- A set S together with a partial ordering R is called a partially ordered
+- set, or poset, and is denoted by (S, R).
+- Members of S are called elements of the poset.
+- Lexicographic order -> it is based in the ordering of the letters in the alphabet.
+- Lexicographic order is sometimes called dictionary order.
+- Lattices is a poset where every pair of elements if there is a unique least upper bound and a unique greatest lowest bound.
 
 
