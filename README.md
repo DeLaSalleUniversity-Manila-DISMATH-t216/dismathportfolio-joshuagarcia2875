@@ -48,6 +48,8 @@ dismathportfolio-joshuagarcia2875 created by Classroom for GitHub
 
 #Week 7
 - I learned about subset and superset
+- Cardinality is a measure of elements of the sets
+- Functions were discussed.
 - I learned about the One-to-One Function or Injective, Onto Function or Surjective and lastly, the Bijective
 - I also learned the one-to-many which is not function
 
