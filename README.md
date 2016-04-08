@@ -130,6 +130,27 @@ and last element is common.
 - A m-ary tree is a rooted tree which every internal vertex has no more than "m" children.
 - A rooted tree which the children of each internal node is order is called an ORDERED ROOTED TREE
 - We discussed the different properties of trees and answered an exercise.
+- We discussed about Language and Grammars
+- English language can sometimes be vague and some English words may be confusing because one word could have multiple meanings
+- A formal language is specified by a well-defined set of rules of syntax
+- In the discussion of programming, syntax or the grammar is very vital.
+- A language is a set of strings.
+- An automata is a mathemical model of computing device.
+- An automaton is an idealized mathematical computing machine.
+- A finite automaton is a simple type of mathematical machine for determining whether a string is contained within some language.
+- Lexical analysis is the process of analyzing a stream of individual characters into a sequence of lexical tokens.
+- Finite-state machine: M = {S, I, O, f, g, s(0)} where S corresponds to states, I corresponds to input, O corresponds to output, f corresponds to function, g corresponds to function output and s(0) means initial state.
+- 
+- READING ASSIGNMENT (topics are included in the Final Examination)
+- Tree traversal is a form of graph of tree traversal and refers to the process of visiting each node in a tree data structure exactly once.
+- Binary traversal methods: preorder, inorder, postorder
+- A simple graph with a spanning tree must be connected, because there is a path in the spanning tree between any two vertices.
+- Let G corresponds to a simple graph. A spanning tree of G is a subgraph of G that is a tree containing every vertex of G.
+- A minimum spanning tree is a spanning tree that has the smallest possible sum of weights of its edges.
+- Relations is a relationship of elements between two sets.
+- A binary relation from a set A to a set B is a subset of A x B
+- Assume A is a set, and R be a binary relation on A;
+- R is reflexive if ∀x[(x ∈ A) → ((x, x) ∈ R)]
 
 
 
